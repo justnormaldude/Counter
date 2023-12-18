@@ -1,0 +1,61 @@
+.myH1{
+    color: rgb(0, 174, 255);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    border: 2px solid rgb(133, 133, 133);
+    background-color:rgb(236, 236, 236);
+    height: 50px;
+    box-shadow:  10px 10px 10px 5px rgb(211, 211, 211)
+}
+
+.btn1{
+    height: 50px;
+    width: 150px;
+    position: fixed;
+    left: 200px;
+    bottom: 400px;
+    cursor: pointer;
+    font-size: 30px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.btn2{
+    height: 50px;
+    width: 150px;
+    position: fixed;
+    left: 800px;
+    bottom: 400px;
+    cursor: pointer;
+    font-size: 30px;
+}
+
+.myH2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: white;
+    position: fixed;
+    left: 50%;
+    top: 40%;
+    transform: translate(-50%, -50%);
+    background-color: rgb(88, 88, 88);
+    width: 200px;
+    height: 60px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.rstbtn{
+    position: fixed;
+    left: 44%;
+    top: 60%;
+    width: 150px;
+    height: 50px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: rgb(0, 153, 255);
+    border-radius: 5px;
+    color: white;
+    font-size: 25px;
+    border-color: gray;
+    cursor: pointer;
+}
